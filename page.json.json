@@ -7,7 +7,12 @@
         {
           "type": "text",
           "text": "dddddsssda"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
         {
           "type": "hardBreak"
         },
