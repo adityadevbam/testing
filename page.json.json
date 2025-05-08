@@ -2,7 +2,10 @@
   "type": "doc",
   "content": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
       "content": [
         {
           "type": "text",
@@ -11,7 +14,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
       "content": [
         {
           "type": "text",
@@ -33,61 +39,41 @@
       ]
     },
     {
-      "type": "taskList",
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
       "content": [
         {
-          "type": "taskItem",
-          "attrs": {
-            "checked": false
-          },
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "hello"
-                }
-              ]
-            }
-          ]
+          "type": "text",
+          "text": "hello"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "hello world"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "ok himanshu"
         },
         {
-          "type": "taskItem",
-          "attrs": {
-            "checked": false
-          },
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "hello world"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "taskItem",
-          "attrs": {
-            "checked": false
-          },
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "ok himanshu"
-                },
-                {
-                  "type": "hardBreak"
-                }
-              ]
-            }
-          ]
+          "type": "hardBreak"
         }
       ]
     }
