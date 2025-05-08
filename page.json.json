@@ -1,100 +1,17 @@
 {
-  "novel_content": {
+  "online_content": {
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "dddddsssdasdd"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "SSd"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "SSS"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "HELLO HIMANSHU "
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "dd"
-          },
-          {
-            "type": "hardBreak"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "hello"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "hello world"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "ok himanshu"
-          },
-          {
-            "type": "hardBreak"
+            "text": "hellodd"
           }
         ]
       }
     ]
   },
-  "time": "2025-05-08T17:22:14.202Z"
+  "online_content_time": "2025-05-08T17:30:51.158Z"
 }
